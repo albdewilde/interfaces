@@ -1,5 +1,5 @@
 ﻿using Interface.EmailService;
 
-EmailService es = new();
+IEmailService es = new EmailService();
 
 es.SendEmail();
