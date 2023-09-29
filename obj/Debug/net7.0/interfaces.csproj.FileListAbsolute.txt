@@ -1,0 +1,15 @@
+/home/alban/prg/cs/interfaces/bin/Debug/net7.0/interfaces
+/home/alban/prg/cs/interfaces/bin/Debug/net7.0/interfaces.deps.json
+/home/alban/prg/cs/interfaces/bin/Debug/net7.0/interfaces.runtimeconfig.json
+/home/alban/prg/cs/interfaces/bin/Debug/net7.0/interfaces.dll
+/home/alban/prg/cs/interfaces/bin/Debug/net7.0/interfaces.pdb
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.csproj.AssemblyReference.cache
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.AssemblyInfoInputs.cache
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.AssemblyInfo.cs
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.csproj.CoreCompileInputs.cache
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.dll
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/refint/interfaces.dll
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.pdb
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/interfaces.genruntimeconfig.cache
+/home/alban/prg/cs/interfaces/obj/Debug/net7.0/ref/interfaces.dll
